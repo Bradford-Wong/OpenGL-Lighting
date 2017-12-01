@@ -1,0 +1,15 @@
+﻿  sample.cpp
+c:\users\bradford\documents\450\assignment 4\sphere.cpp(73): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bradford\documents\450\assignment 4\sphere.cpp(78): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bradford\documents\450\assignment 4\sphere.cpp(89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\bradford\documents\450\assignment 4\sphere.cpp(90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\bradford\documents\450\assignment 4\sample.cpp(197): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bradford\documents\450\assignment 4\sample.cpp(301): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\bradford\documents\450\assignment 4\sample.cpp(304): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\bradford\documents\450\assignment 4\sample.cpp(547): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\bradford\documents\450\assignment 4\sample.cpp(603): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bradford\documents\450\assignment 4\sample.cpp(610): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\bradford\documents\450\assignment 4\sample.cpp(1004): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Bradford\Documents\450\Assignment 4\.\Debug\Sample.exe
+  Sample.vcxproj -> .\Debug/Sample.pdb (Full PDB)
